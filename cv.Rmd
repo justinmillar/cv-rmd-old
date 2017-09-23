@@ -1,0 +1,124 @@
+---
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: svm-latex-cv.tex
+geometry: margin=1in
+
+title: "CV"
+author: Justin John Millar
+
+jobtitle: "Graduate Student (Ph. D.), School of Forest Resources and Conservation"
+address: "University of Florida · 409 McCarty Hall C · Gainesville FL, USA"
+fontawesome: yes
+email: jjmillar@ufl.edu
+github: justinmillar
+phone: "248-229-8782"
+web: justinmillar.com
+updated: no
+
+#keywords: R Markdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+linkcolor: blue
+urlcolor: blue
+---
+
+# Education
+
+*University of Florida*, Ph. D. Forest Resources and Conservation \hfill 2014-present
+
+*University of Mississippi*, M. Sc. Biology \hfill 2012-2014
+
+*Michigan State University*, B. Sc. Ecology and Evolution \hfill 2007-2011
+
+# Additional Training
+
+*Data Carpentry - Instructor Training*, Gainesville, FL \hfill 2017
+
+*Mothur Workshop*, Detroit, MI \hfill 2013
+
+
+# Employment
+
+*University of Florida*, Graduate Research/Teaching Assistant \hfill 2014-present
+
+*University of Michigan*, Lab Manager/Field Technician \hfill 2014
+
+*University of Mississippi*, Graduate Research/Teaching Assistant \hfill 2012-2013
+
+*Cape Eleuthera Institute*, Research Fellowship \hfill 2011
+
+*Mote Marine Laboratory*, REU Internship \hfill 2010
+
+*Michigan State University*, Undergraduate Research/Teaching Assistant \hfill 2008-2011
+
+
+
+# Publications
+
+Payne, Jason T., **Justin J. Millar**, Colin R. Jackson, and Clifford A. Ochs. 2017. "[Patterns of variation in diversity of the Mississippi river microbiome over 1,300 kilometers](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0174890)". *PLoS ONE* 12(3): e0174890.
+
+Valle, Denis R., **Justin J. Millar**, and Punam Amratia. 2016. "[Spatial heterogeneity can undermine the effectiveness of country-wide test and treat policy for malaria: a case study from Burkina Faso](https://malariajournal.biomedcentral.com/articles/10.1186/s12936-016-1565-2)". *Malaria Journal* 15: 513.
+
+Valle, Denis R., Joanna M. Tucker-Lima, **Justin J. Millar**, Punam Amratia, and Ubydul Haque. 2015. "[Bias in logistic regression due to imperfect diagnostic test results and practical correction approaches](https://malariajournal.biomedcentral.com/articles/10.1186/s12936-015-0966-y)". *Malaria Journal* 14: 434.
+
+**Millar, Justin J.**, Jason T. Payne, Clifford A. Ochs, and Colin R. Jackson. 2015. "[Particle-associated and cell-free extracellular enzyme activity in relation to nutrient status of large tributaries of the Lower Mississippi River](https://link.springer.com/article/10.1007%2Fs10533-015-0096-1)". *Biogeochemistry* 124(1-3): 255-271.
+
+Jackson, Colin R., **Justin J. Millar**, Jason T. Payne, and Clifford A. Ochs. 2014. "[Free-living and particle-associated bacterioplankton in large rivers of the Mississippi River Basin demonstrate biogeographic patterns](http://aem.asm.org/content/early/2014/09/08/AEM.01844-14)". *Applied and Environmental Microbiology* 80(23); 7186-7195.
+
+Jackson, Colin R., Heather L Tyler, and **Justin J. Millar**. 2013. "[Determination of Microbial Extracellular Enzyme Activity in Waters, Soils, and Sediments using High Throughput Microplate Assays](https://www.jove.com/video/50399/determination-microbial-extracellular-enzyme-activity-waters-soils)". *Journal of Visualized Experiments* 80: 50399.  
+
+# Presentations
+
+## External Conferences
+
+*American Society of Tropical Medicine & Hygiene (ASTMH)*
+
+"To screen or not to screen: An interactive tool that integrates costs and spatial heterogeneity to determine when mass-screen-and-treat is an effective malaria control strategy". Baltimore, MD, November 2017. 
+
+"Identifying Malaria Risk Factors in a Hyper-Endemic Setting using Bayesian Model Selection". Atlanta, GA, November 2016.
+
+*Association for the Sciences of Limnology and Oceanography Meeting (ASLO)*
+
+"Microbial nutrient processing via extracellular enzyme activity in major tributaries of the Lower Mississippi River". New Orleans, LA, February 2013.
+
+*American Society of Microbiology (ASM)*
+
+"Bacterial community structure in major tributaries of the Lower Mississippi River is driven by habitat differences at regional and micro-scales". New Orleans, LA, October 2013.
+
+"Microbial extracellular enzyme activity in large rivers of the Mississippi River Basin". Starkville, MS, October 2012.
+
+## Internal Conferences
+
+Emerging Pathogens Institute Research Day: 2015, 2016, 2017
+
+School of Forest Resources and Conservation Symposium: 2016
+
+# Grants and Awards
+
+Graduate Student Council Travel Grant, University of Florida \hfill 2017
+
+Grinter Fellowship, University of Florida \hfill 2014
+
+ASLO Early Career Travel Grant \hfill 2013
+
+Department of Biology Travel Grant, University of Mississippi \hfill 2013
+
+Most Outstanding Teaching Assistant in Biology Award \hfill 2010
+
+
+# Teaching
+## Courses (Teaching Assistant)
+
+Introduction to Bayesian Statistics ()
+
+## Workshops
+
+# Additional Information 
+
+# References
+
+Available upon request.
