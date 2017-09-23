@@ -113,12 +113,49 @@ Most Outstanding Teaching Assistant in Biology Award \hfill 2010
 # Teaching
 ## Courses (Teaching Assistant)
 
-Introduction to Bayesian Statistics ()
+Introduction to Bayesian Statistics, University of Florida, Spring 2016
+
+Microbiology Lab, University of Mississippi, Spring 2012
+
+Mangrove Ecology, The Island School, Summer 2011
+
+Applied Research Techniques, Michigan State University, Spring 2011
+
+Molecular Biology Lab, Michigan State University, Fall 2010
 
 ## Workshops
 
+Data Carpentry R Workshop, University of Florida Informatics Institute, August 2017
+
+Statistics for Ecological Research, The Island School, June 2011
+
+
 # Additional Information 
+
+Programming experience: R, Python, SQL, ArcGIS, git, bash
+
+University of Florida R Meet-ups: Co-founder/manager, developer and maintainer of [website](http://www.r-gators.com/).
+
+### Shiny Applications: 
+
+*In development:*
+
+[To screen or not to screen?: An interactive tool that integrates costs and spatial heterogeneity to determine when mass-screen-and-treat is an effective malaria control strategy](https://jjmillar.shinyapps.io/msat-cost-map/), lead developer
+
+[Comparison of presumptive treatments and test-than-treat across prevalences](https://jjmillar.shinyapps.io/msat-cost-graph/), lead developer
+
+*Completed:*
+
+[Probability of malaria infection in Burkina Faso](https://denisvalle.shinyapps.io/burkina_faso_tool/), aid developer
+
+[Regions for presumptive treatment in Burkinda](https://denisvalle.shinyapps.io/burkina_faso_map/), aid developer
+
+[Finding statistics across University of Florida](https://ufstatscourses.shinyapps.io/shiny_tutorial/), aid developer
+
+
 
 # References
 
 Available upon request.
+
+\vfill * Updated as of `r format(Sys.time(), '%B %d, %Y')`
