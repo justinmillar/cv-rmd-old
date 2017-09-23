@@ -79,7 +79,7 @@ Jackson, Colin R., Heather L Tyler, and **Justin J. Millar**. 2013. "[Determinat
 
 "To screen or not to screen: An interactive tool that integrates costs and spatial heterogeneity to determine when mass-screen-and-treat is an effective malaria control strategy". Baltimore, MD, November 2017. 
 
-"Identifying Malaria Risk Factors in a Hyper-Endemic Setting using Bayesian Model Selection". Atlanta, GA, November 2016.
+"Identifying malaria risk factors in a hyper-endemic setting using Bayesian model selection". Atlanta, GA, November 2016.
 
 ## Association for the Sciences of Limnology and Oceanography Meeting (ASLO)
 
@@ -112,7 +112,6 @@ Most Outstanding Teaching Assistant in Biology Award \hfill 2010
 
 # Teaching
 ## Courses (Teaching Assistant)
-
 Introduction to Bayesian Statistics, University of Florida, Spring 2016
 
 Microbiology Lab, University of Mississippi, Spring 2012
