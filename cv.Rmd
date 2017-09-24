@@ -36,9 +36,9 @@ urlcolor: blue
 
 # Additional Training
 
-*Data Carpentry - Instructor Training*, Gainesville, FL \hfill 2017
+*Software/Data Carpentry Instructor Training*, Gainesville, FL \hfill 2017
 
-*Mothur Workshop*, Detroit, MI \hfill 2013
+*Mothur Bioinformatics Workshop*, Detroit, MI \hfill 2013
 
 
 # Employment
@@ -70,6 +70,7 @@ Valle, Denis R., Joanna M. Tucker-Lima, **Justin J. Millar**, Punam Amratia, and
 Jackson, Colin R., **Justin J. Millar**, Jason T. Payne, and Clifford A. Ochs. 2014. "[Free-living and particle-associated bacterioplankton in large rivers of the Mississippi River Basin demonstrate biogeographic patterns](http://aem.asm.org/content/early/2014/09/08/AEM.01844-14)". *Applied and Environmental Microbiology* 80(23); 7186-7195.
 
 Jackson, Colin R., Heather L Tyler, and **Justin J. Millar**. 2013. "[Determination of Microbial Extracellular Enzyme Activity in Waters, Soils, and Sediments using High Throughput Microplate Assays](https://www.jove.com/video/50399/determination-microbial-extracellular-enzyme-activity-waters-soils)". *Journal of Visualized Experiments* 80: 50399.  
+
 
 # Presentations
 
@@ -133,7 +134,7 @@ Statistics for Ecological Research, The Island School, June 2011
 
 Programming experience: R, Python, SQL, ArcGIS, git, bash
 
-University of Florida R Meet-ups: Co-founder/manager, developer and maintainer of [website](http://www.r-gators.com/).
+University of Florida R Meet-ups: Co-founder/manager, developer and maintainer of the  [website](http://www.r-gators.com/)
 
 ### Shiny Applications: 
 
@@ -141,15 +142,15 @@ University of Florida R Meet-ups: Co-founder/manager, developer and maintainer o
 
 [To screen or not to screen?: An interactive tool that integrates costs and spatial heterogeneity to determine when mass-screen-and-treat is an effective malaria control strategy](https://jjmillar.shinyapps.io/msat-cost-map/), lead developer
 
-[Comparison of presumptive treatments and test-than-treat across prevalences](https://jjmillar.shinyapps.io/msat-cost-graph/), lead developer
+[Comparison of presumptive treatment and test-than-treat scenarios across possible prevalences](https://jjmillar.shinyapps.io/msat-cost-graph/), lead developer
 
 ## Completed:
 
 [Probability of malaria infection in Burkina Faso](https://denisvalle.shinyapps.io/burkina_faso_tool/), aid developer
 
-[Regions for presumptive treatment in Burkinda](https://denisvalle.shinyapps.io/burkina_faso_map/), aid developer
+[Regions for presumptive treatment in Burkina Faso](https://denisvalle.shinyapps.io/burkina_faso_map/), aid developer
 
-[Finding statistics courses across University of Florida](https://ufstatscourses.shinyapps.io/shiny_tutorial/), aid developer
+[Finding statistics courses across the University of Florida](https://ufstatscourses.shinyapps.io/shiny_tutorial/), aid developer
 
 
 
