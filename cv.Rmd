@@ -59,6 +59,16 @@ urlcolor: blue
 
 # Publications
 
+## Working:
+
+**Justin Millar**, Kok Ben Toh, Denis Valle. 2018. To screen or not to screen: an interactive framework for comparing cost-effectiveness of mass screening and treatment of malaria. *Malaria Journal*. *in progress*
+
+Punam Amratia, Paul Psychas, Benjamin Abuaku, Collins Ahorlu, **Justin Millar**, Samuel Oppong, Kwadwo Koram, and Denis R Valle. 2018. Using a Bayesian geostatistical model to characterize local-scale heterogeneity of malaria risk in Bunkpurugu-Yunyoo district in northern Ghana. *Am. J. Trop. M. Hyg.*. *In progress*
+
+**Justin Millar**, Paul Psychas, Punam Amratia, Benjamin Abuaku, Collins Ahorlu, Kwadwo Koram, Samuel Oppong, and Denis Valle. 2018. Detecting Risk Factors for Residual Malaria using Bayesian Model Averaging. *PLoS Medicine*. *In review*
+
+## Completed:
+
 Payne, Jason T., **Justin J. Millar**, Colin R. Jackson, and Clifford A. Ochs. 2017. "[Patterns of variation in diversity of the Mississippi river microbiome over 1,300 kilometers](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0174890)". *PLoS ONE* 12(3): e0174890.
 
 Valle, Denis R., **Justin J. Millar**, and Punam Amratia. 2016. "[Spatial heterogeneity can undermine the effectiveness of country-wide test and treat policy for malaria: a case study from Burkina Faso](https://malariajournal.biomedcentral.com/articles/10.1186/s12936-016-1565-2)". *Malaria Journal* 15: 513.
@@ -94,11 +104,15 @@ Jackson, Colin R., Heather L Tyler, and **Justin J. Millar**. 2013. "[Determinat
 
 ### Internal Conferences:
 
-Emerging Pathogens Institute Research Day: 2015, 2016, 2017
+Emerging Pathogens Institute Research Day: 2015, 2016, 2017, 2018
 
-School of Forest Resources and Conservation Symposium: 2016
+School of Forest Resources and Conservation Symposium: 2016, 2018
+
+University of Florida Graduate Research Symposium: 2018
 
 # Grants and Awards
+
+Informatics Institute Travel Grant, University of Florida \hfill 2017-18
 
 Graduate Student Council Travel Grant, University of Florida \hfill 2017
 
@@ -113,6 +127,9 @@ Most Outstanding Teaching Assistant in Biology Award \hfill 2010
 
 # Teaching
 ## Courses (Teaching Assistant)
+
+Introduction to Applied Statistics, University of Florida, Spring 2018
+
 Introduction to Bayesian Statistics, University of Florida, Spring 2016
 
 Microbiology Lab, University of Mississippi, Spring 2012
@@ -125,7 +142,9 @@ Molecular Biology Lab, Michigan State University, Fall 2010
 
 ## Workshops
 
-Data Carpentry R Workshop, University of Florida Informatics Institute, August 2017
+Software and Data Carpentry Workshops, University of Florida Informatics Institute, 2017-18
+
+R Workshop, Undergraduate Statistics Club, University of Florida, 2017-18
 
 Statistics for Ecological Research, The Island School, June 2011
 
@@ -139,6 +158,8 @@ University of Florida R Meet-ups: Co-founder/manager, developer and maintainer o
 ### Shiny Applications: 
 
 ## In-development:
+
+[Projecting the impact of new facilities on childhood malaria in Bunkpurungu-Yunyoo, Ghana](https://jjmillar.shinyapps.io/byd-health-facilities/)
 
 [To screen or not to screen?: An interactive tool that integrates costs and spatial heterogeneity to determine when mass-screen-and-treat is an effective malaria control strategy](https://jjmillar.shinyapps.io/msat-cost-map/), lead developer
 
