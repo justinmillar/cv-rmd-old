@@ -36,6 +36,8 @@ urlcolor: blue
 
 # Additional Training
 
+*Ecological Forecasting*, Boston, MA \hfill 2018
+
 *Software/Data Carpentry Instructor Training*, Gainesville, FL \hfill 2017
 
 *Mothur Bioinformatics Workshop*, Detroit, MI \hfill 2013
@@ -61,11 +63,13 @@ urlcolor: blue
 
 ## Working:
 
+**Justin Millar**, Paul Psychas, Ben Abuaku, Punam Amratia, Kwadwo Koram, Kok Ben Toh, Denis Valle. 2018. Assessing and projecting the role of distance from local health facilities on early childhood malaria: a case example from northern Ghana. *in progress*
+
 **Justin Millar**, Kok Ben Toh, Denis Valle. 2018. To screen or not to screen: an interactive framework for comparing cost-effectiveness of mass screening and treatment of malaria. *Malaria Journal*. *in progress*
 
 Punam Amratia, Paul Psychas, Benjamin Abuaku, Collins Ahorlu, **Justin Millar**, Samuel Oppong, Kwadwo Koram, and Denis R Valle. 2018. Using a Bayesian geostatistical model to characterize local-scale heterogeneity of malaria risk in Bunkpurugu-Yunyoo district in northern Ghana. *Am. J. Trop. M. Hyg.*. *In progress*
 
-**Justin Millar**, Paul Psychas, Punam Amratia, Benjamin Abuaku, Collins Ahorlu, Kwadwo Koram, Samuel Oppong, and Denis Valle. 2018. Detecting Risk Factors for Residual Malaria using Bayesian Model Averaging. *PLoS Medicine*. *In review*
+**Justin Millar**, Paul Psychas, Punam Amratia, Benjamin Abuaku, Collins Ahorlu, Kwadwo Koram, Samuel Oppong, and Denis Valle. 2018. Detecting Risk Factors for Residual Malaria using Bayesian Model Averaging. *Malaria Journal*. *In review*
 
 ## Completed:
 
@@ -92,6 +96,10 @@ Jackson, Colin R., Heather L Tyler, and **Justin J. Millar**. 2013. "[Determinat
 
 "Identifying malaria risk factors in a hyper-endemic setting using Bayesian model selection". Atlanta, GA, November 2016.
 
+## CarpentryCon
+
+"A Carpentries culture at the University of Florida". Dublin, Ireland, May 2018.  
+
 ## Association for the Sciences of Limnology and Oceanography Meeting (ASLO)
 
 "Microbial nutrient processing via extracellular enzyme activity in major tributaries of the Lower Mississippi River". New Orleans, LA, February 2013.
@@ -108,9 +116,11 @@ Emerging Pathogens Institute Research Day: 2015, 2016, 2017, 2018
 
 School of Forest Resources and Conservation Symposium: 2016, 2018
 
-University of Florida Graduate Research Symposium: 2018
+UF/IFAS Workshop on Improving Nutrition and Food Security in Sub-Saharan Africa: 2018
 
 # Grants and Awards
+
+UF Carpentry Club Special Travel Grant, University of Florida \hfill 2018
 
 Informatics Institute Travel Grant, University of Florida \hfill 2017-18
 
@@ -144,6 +154,8 @@ Molecular Biology Lab, Michigan State University, Fall 2010
 
 Software and Data Carpentry Workshops, University of Florida Informatics Institute, 2017-18
 
+UF R Meetup, University of Florida Marston Science Library, 2017-18
+
 R Workshop, Undergraduate Statistics Club, University of Florida, 2017-18
 
 Statistics for Ecological Research, The Island School, June 2011
@@ -159,7 +171,7 @@ University of Florida R Meet-ups: Co-founder/manager, developer and maintainer o
 
 ## In-development:
 
-[Projecting the impact of new facilities on childhood malaria in Bunkpurungu-Yunyoo, Ghana](https://jjmillar.shinyapps.io/byd-health-facilities/)
+[Projecting the impact of new facilities on childhood malaria in Bunkpurungu-Yunyoo, Ghana](https://jjmillar.shinyapps.io/byd-health-facilities/), lead developer
 
 [To screen or not to screen?: An interactive tool that integrates costs and spatial heterogeneity to determine when mass-screen-and-treat is an effective malaria control strategy](https://jjmillar.shinyapps.io/msat-cost-map/), lead developer
 
