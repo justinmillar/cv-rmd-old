@@ -69,7 +69,7 @@ urlcolor: blue
 
 Punam Amratia, Paul Psychas, Benjamin Abuaku, Collins Ahorlu, **Justin Millar**, Samuel Oppong, Kwadwo Koram, and Denis R Valle. 2018. Using a Bayesian geostatistical model to characterize local-scale heterogeneity of malaria risk in Bunkpurugu-Yunyoo district in northern Ghana. *Am. J. Trop. M. Hyg.*. *In progress*
 
-**Justin Millar**, Paul Psychas, Punam Amratia, Benjamin Abuaku, Collins Ahorlu, Kwadwo Koram, Samuel Oppong, and Denis Valle. 2018. Detecting Risk Factors for Residual Malaria using Bayesian Model Averaging. *Malaria Journal*. *In review*
+**Justin Millar**, Paul Psychas, Punam Amratia, Benjamin Abuaku, Collins Ahorlu, Kwadwo Koram, Samuel Oppong, and Denis Valle. 2018. Detecting local risk factors for residual malaria in northern Ghana using Bayesian model averaging. *Malaria Journal*. *In review*
 
 ## Completed:
 
