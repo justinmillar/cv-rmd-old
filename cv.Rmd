@@ -12,6 +12,7 @@ jobtitle: "Graduate Student, School of Forest Resources and Conservation"
 address: "University of Florida · 409 McCarty Hall C · Gainesville FL, USA"
 fontawesome: yes
 email: jjmillar@ufl.edu
+orcid: 0000-0002-6866-7544
 github: justinmillar
 phone: "248-229-8782"
 web: justinmillar.com
@@ -61,17 +62,22 @@ urlcolor: blue
 
 # Publications
 
+<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-6866-7544" href="https://orcid.org/0000-0002-6866-7544" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">orcid.org/0000-0002-6866-7544</a></div>
+
 ## Working:
 
-**Justin Millar**, Paul Psychas, Ben Abuaku, Punam Amratia, Kwadwo Koram, Kok Ben Toh, Denis Valle. 2018. Assessing and projecting the role of distance from local health facilities on early childhood malaria: a case example from northern Ghana. *in progress*
+**Justin Millar**, Paul Psychas, Ben Abuaku, Punam Amratia, Kwadwo Koram, Kok Ben Toh, Denis Valle. 2018. Assessing and projecting the role of distance from local health facilities on early childhood malaria: a case example from northern Ghana. *In progress*.
 
-**Justin Millar**, Kok Ben Toh, Denis Valle. 2018. To screen or not to screen: an interactive framework for comparing cost-effectiveness of mass screening and treatment of malaria. *Malaria Journal*. *in progress*
+Denis Valle, Kok Ben Toh, and **Justin Millar**. 2018. Promoting actionable science through the use of scenario-based interactive web tools. *PLoS ONE*. *In review.*.
 
-Punam Amratia, Paul Psychas, Benjamin Abuaku, Collins Ahorlu, **Justin Millar**, Samuel Oppong, Kwadwo Koram, and Denis R Valle. 2018. Using a Bayesian geostatistical model to characterize local-scale heterogeneity of malaria risk in Bunkpurugu-Yunyoo district in northern Ghana. *Am. J. Trop. M. Hyg.*. *In progress*
+**Justin Millar**, Kok Ben Toh, Denis Valle. 2018. To screen or not to screen: an interactive framework for comparing cost-effectiveness of mass screening and treatment of malaria. *Malaria Journal*. *In review*.
 
-**Justin Millar**, Paul Psychas, Punam Amratia, Benjamin Abuaku, Collins Ahorlu, Kwadwo Koram, Samuel Oppong, and Denis Valle. 2018. Detecting local risk factors for residual malaria in northern Ghana using Bayesian model averaging. *Malaria Journal*. *In review*
+Punam Amratia, Paul Psychas, Benjamin Abuaku, Collins Ahorlu, **Justin Millar**, Samuel Oppong, Kwadwo Koram, and Denis R Valle. 2018. Using a Bayesian geostatistical model to characterize local-scale heterogeneity of malaria risk in Bunkpurugu-Yunyoo district in northern Ghana. *Am. J. Trop. M. Hyg.*. *In review*.
+
 
 ## Completed:
+
+**Justin Millar**, Paul Psychas, Punam Amratia, Benjamin Abuaku, Collins Ahorlu, Kwadwo Koram, Samuel Oppong, and Denis Valle. 2018. Detecting local risk factors for residual malaria in northern Ghana using Bayesian model averaging. *Malaria Journal*. *In press*.
 
 Payne, Jason T., **Justin J. Millar**, Colin R. Jackson, and Clifford A. Ochs. 2017. "[Patterns of variation in diversity of the Mississippi river microbiome over 1,300 kilometers](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0174890)". *PLoS ONE* 12(3): e0174890.
 
@@ -91,6 +97,8 @@ Jackson, Colin R., Heather L Tyler, and **Justin J. Millar**. 2013. "[Determinat
 ### External Conferences:
 
 ## American Society of Tropical Medicine & Hygiene (ASTMH)
+
+"Assessing and projecting the role of distance from local health facilities on early childhood malaria prevalence: a case example from northern Ghana". New Orleans, LA, October 2018.
 
 "To screen or not to screen: An interactive tool that integrates costs and spatial heterogeneity to determine when mass-screen-and-treat is an effective malaria control strategy". Baltimore, MD, November 2017. 
 
@@ -166,6 +174,8 @@ Statistics for Ecological Research, The Island School, June 2011
 Programming experience: R, Python, SQL, ArcGIS, git, bash
 
 University of Florida R Meet-ups: Co-founder/manager, developer and maintainer of the  [website](http://www.r-gators.com/)
+
+[University of Florida Carpentry Club](https://www.uf-carpentry.org/): Planning committee, inaugural board member
 
 ### Shiny Applications: 
 
